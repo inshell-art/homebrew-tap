@@ -1,8 +1,8 @@
 class Me < Formula
   desc "Local meaning environment"
   homepage "https://github.com/inshell-art/me"
-  url "https://github.com/inshell-art/me/archive/refs/tags/v0.7.0.tar.gz"
-  sha256 "6102520704a4450f5ff4309106e5d90a83bc143b6b167898d2314f350751b78c"
+  url "https://github.com/inshell-art/me/archive/refs/tags/v0.8.0.tar.gz"
+  sha256 "e16fccf4a69b66e4abc5cca04bd6f5d9b1737587b6e6b0a25361754c39c311e8"
   license "MIT"
 
   depends_on "rust" => :build
